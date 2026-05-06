@@ -119,4 +119,4 @@ If you find our work or dataset helpful, please consider citing our paper:
 
 ## 📧 Contact
 
-For any questions regarding the dataset or the core logic, please open an issue or contact `[Your Email Address]`.
+For any questions regarding the dataset or the core logic, please open an issue or contact `[lann@stu.xidian.edu.cn]`.
