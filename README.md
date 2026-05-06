@@ -36,10 +36,11 @@ The dataset is evaluated along four dimensions:
 
 ### **📥 Download the Dataset**
 
-We have compressed the dataset and uploaded it to a cloud drive. You can download it via the link below:
+**⏳ Full Dataset Coming Soon\!** \> We have compressed and uploaded a preview version of the dataset to the cloud drive. The complete dataset will be released shortly.
 
-* **Google Drive:** [\[Link to Google Drive\]](#bookmark=id.uwxsjuwgdc6j)  
-* **Baidu Netdisk (百度网盘):** [\[Link to Baidu Pan\]](#bookmark=id.uwxsjuwgdc6j) (Passcode: xxxx)
+You can download the currently available data via the link below:
+
+* **Quark Netdisk (夸克网盘):** [Link to Quark Netdisk](https://pan.quark.cn/s/1b1d5d288437) (Passcode: fLWD)
 
 **Data Structure:**
 
@@ -51,7 +52,9 @@ We have compressed the dataset and uploaded it to a cloud drive. You can downloa
 
 ## **💻 Core Code Snippets**
 
-We open-source the core logic of our memory mechanism. These snippets illustrate how the **Encoding-Storage-Recall** pipeline and the **Hierarchical Memory Graph** are constructed.
+**🚧 Complete Core Code Coming Soon\!**
+
+We are preparing to open-source the complete core logic of our memory mechanism. The upcoming release will illustrate how the **Encoding-Storage-Recall** pipeline and the **Hierarchical Memory Graph** are constructed in detail.
 
 ### **Prerequisites**
 
@@ -62,7 +65,7 @@ We open-source the core logic of our memory mechanism. These snippets illustrate
 ### **1\. Memory Graph Structure (Static Brain)**
 
 \# core/memory\_graph.py  
-\# TODO: Release the classes for Hierarchical Memory Graph definition (V0: Flat to V4: Small object).  
+\# TODO: Release the complete classes for Hierarchical Memory Graph definition (V0: Flat to V4: Small object).  
 \# class MemoryGraph:  
 \#     ...
 
@@ -77,7 +80,7 @@ We open-source the core logic of our memory mechanism. These snippets illustrate
 \# def memory\_recall(graph, user\_query):  
 \#     ...
 
-*(Detailed code implementation will be updated here.)*
+*(Detailed code implementation will be updated here soon.)*
 
 ## **📝 Citation**
 
